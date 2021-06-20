@@ -2,7 +2,6 @@
   "name": "TypingMaster",
   "version": "1.0.0",
   "private": true,
-  "proxy": "http://localhost:5000",
     "engines": {
     "npm": "6.14.4",
     "node": "10.19.0"
