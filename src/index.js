@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import UserProvider, { UserContext, withAuth } from './context/UserContext'
-import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import './bootstrap.min.css';
 import './style.css';
 import App from './components/App'
 
